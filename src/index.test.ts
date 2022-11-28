@@ -4,5 +4,3 @@ describe('fake test', () => {
     expect(mock).toBe(1);
   })
 })
-
-export {}
