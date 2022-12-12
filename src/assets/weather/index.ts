@@ -1,0 +1,10 @@
+export { ReactComponent as CloudyIcon } from './cloudy.svg';
+export { ReactComponent as HazeIcon } from './haze.svg';
+export { ReactComponent as HeavyRainIcon } from './heavy-rain.svg';
+export { ReactComponent as PartlyCloudyIcon } from './partly-cloudy.svg';
+export { ReactComponent as RainIcon } from './rain.svg';
+export { ReactComponent as SleetIcon } from './sleet.svg';
+export { ReactComponent as SnowIcon } from './snow.svg';
+export { ReactComponent as SunnyIcon } from './sunny.svg';
+export { ReactComponent as ThunderstormIcon } from './thunderstorm.svg';
+export { ReactComponent as WindyIcon } from './windy.svg';
